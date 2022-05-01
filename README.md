@@ -7,4 +7,9 @@ This is the error that is shown
 In order to solve this problem you need to clone the repository and copy the folder data to the bin\mysql\mysql5.7.24 directory or folder of wamp server
 
 You have the unzipped folder and the zip. Both are the same just copy all the folder data to the address mentioned and it will be functional. 
-Check my youtube channel for more details. If you have any questions leave them in the comments, don't forget to subscribe, like and share
+
+Check my youtube channel for more details. 
+
+https://www.youtube.com/channel/UCoknPBhmZ5HfM0ufx7ox3Jw
+
+If you have any questions leave them in the comments, don't forget to subscribe, like and share
